@@ -3,6 +3,7 @@ import React from 'react'
 const Post = () => {
   return (
     <section>
+      {/* TODO: Look for a shadcnui component */}
       <div>
         <div>
           <img src="" alt="" />

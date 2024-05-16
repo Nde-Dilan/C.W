@@ -1,8 +1,12 @@
 import React from 'react'
+import { Input } from "@/components/ui/input"
+
 
 const SearchBar = () => {
   return (
-    <div>SearchBar</div>
+    <div>
+      <Input/>
+    </div>
   )
 }
 
